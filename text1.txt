@@ -1,0 +1,8 @@
+
+
+
+
+
+
+[A[A[A[A[A[Astaged  to unstage - git reset HEAD
+not yet staged and want to discard the changes - git checkout file_name>[D[D[D[D[D[D[D[D[D[D>f[2~ile_name>
